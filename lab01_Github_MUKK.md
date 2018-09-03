@@ -10,6 +10,8 @@
 
 # Digital
 - This summer, I watched *Crazy Rich Asians,* and it was great to see an all Asian-American cast as there is not a lot of media representation of minorities. 
-[![IMAGE ALT TEXT HERE](https://www.google.com/search?q=crazy+rich+asians&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjC3P2L05_dAhUorlkKHf-2Dd8Q_AUIDSgE&biw=1280&bih=726#imgrc=nM9d2l_3gdceNM:)](https://www.youtube.com/watch?v=ZQ-YX-5bAs0)
+<a href="https://www.youtube.com/watch?v=ZQ-YX-5bAs0" target="_blank"><img src="https://en.wikipedia.org/wiki/Crazy_Rich_Asians_(film)#/media/File:Crazy_Rich_Asians_poster.png" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 - I also visited Monteplier's new interactive exhibit, *The Mere Distinction of Colour* which featured different forms of digital media. 
 ![alt text](https://blog.richmond.edu/memory/files/2018/08/Blog4_Mukk_Photo1.jpg "Logo Title Text 1")
