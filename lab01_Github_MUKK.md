@@ -10,4 +10,4 @@
 
 # Digital
 - This summer, I watched [*Crazy Rich Asians,*]() and it was great to see an all Asian-American cast as there is not a lot of media representation of minorities. 
-- I also visited Monteplier's new interactive exhibit, [*The Mere Distinction of Colour*](https://blog.richmond.edu/memory/2018/08/23/james-madisons-montpelier-connecting-the-past-to-the-present/) which featured different forms of digital media. 
+- I also visited Monteplier's new interactive exhibit, [*The Mere Distinction of Colour*](https://blog.richmond.edu/memory/files/2018/08/Blog4_Mukk_Photo1.jpg) which featured different forms of digital media. 
