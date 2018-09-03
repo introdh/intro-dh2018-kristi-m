@@ -13,6 +13,3 @@
 [![CRAZY RICH ASIANS](https://en.wikipedia.org/wiki/Crazy_Rich_Asians_(film)#/media/File:Crazy_Rich_Asians_poster.png)](https://www.youtube.com/watch?v=ZQ-YX-5bAs0)
 - I also visited Monteplier's new interactive exhibit, *The Mere Distinction of Colour* which featured different forms of digital media. 
 ![alt text](https://blog.richmond.edu/memory/files/2018/08/Blog4_Mukk_Photo1.jpg "Logo Title Text 1")
-
-https://www.youtube.com/watch?v=ZQ-YX-5bAs0
-https://en.wikipedia.org/wiki/Crazy_Rich_Asians_(film)#/media/File:Crazy_Rich_Asians_poster.png
