@@ -9,3 +9,5 @@
 3. *I do a lot of humanities research, so I wanted to learn how the digital can help explore humanities questions.*
 
 # Digital
+- This summer, I watched [*Crazy Rich Asians,*](https://blog.richmond.edu/memory/2018/08/23/james-madisons-montpelier-connecting-the-past-to-the-present/) and it was great to see an all Asian-American cast as there is not a lot of media representation of minorities. 
+- I also visited Monteplier's new interactive exhibit, *The Mere Distinction of Colour,* which featured different forms of digital media. 
