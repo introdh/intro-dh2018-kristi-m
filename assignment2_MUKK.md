@@ -22,7 +22,7 @@ The year function shows that most of the cases in both areas of law occurred fro
 
 # Centrality
 ![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/plot_centrality.png)
-The centrality function reveals that the most important cases were *Brown v. Board of Education* (1953) and *Green v. County School Board of New Kent County* (1967) for cases in the area of desegregation in schools. The centrality of the *Brown* decision was not surprising, but most laypeople are not familiar with the *Green* decision. Interestingly, there was no central case for the area of free exercise of religion. Further outside research of context and this area of law would need to be studied to explain the data.
+The centrality function reveals that the most important cases were *Brown v. Board of Education* (1953) and *Green v. County School Board of New Kent County* (1967) for cases in the area of desegregation in schools. The centrality of the *Brown* decision is not surprising as it is a well-known case among educated Americans, but most laypeople are not familiar with the *Green* decision. Interestingly, there was no central case for the area of free exercise of religion. Further outside research of context and this area of law would need to be studied to explain the data.
 
 # Gatekeeper
 ![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/plot_gatekeeper.png)
