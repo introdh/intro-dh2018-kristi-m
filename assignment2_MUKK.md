@@ -31,3 +31,6 @@ The gatekeeper function reveals seven gatekeeper cases between the two areas of 
 # Vote
 ![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/plot_vote.png)
 The most important cases found from the centrality function (*Brown v. Board* and *Green v. County*) were unanimous decisions. *Bob Jones v. US* was also not contentious as only one judge disagreed. It is significant that these important cases were not contentious. 
+
+# Cluster
+![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/plot_cluster.png)
