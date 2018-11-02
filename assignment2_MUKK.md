@@ -22,11 +22,11 @@ The year function shows that most of the cases in both areas of law occurred fro
 
 # Centrality
 ![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/plot_centrality.png)
-The centrality function reveals that the most important cases were *Brown v. Board of Education* (1953) and *Green v. County School Board of New Kent County* (1967) for cases in the area of desegregation in schools. Interestingly, there was no central case for the area of free exercise of religion.
+The centrality function reveals that the most important cases were *Brown v. Board of Education* (1953) and *Green v. County School Board of New Kent County* (1967) for cases in the area of desegregation in schools. Interestingly, there was no central case for the area of free exercise of religion. Further outside research of context and this area of law would need to be studied to explain the data.
 
 # Gatekeeper
 ![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/plot_gatekeeper.png)
-The gatekeeper function reveals seven linchpin cases between the two areas of the law, the most important being *Bob Jones University v. United States* (1982), which has a high degree due to the number of edges connecting the two clusters. 
+The gatekeeper function reveals seven gatekeeper cases between the two areas of the law, the most important being *Bob Jones University v. United States* (1982), which has a high degree due to the number of edges connecting the two clusters. This is consistent with expert legal opinion about the importance of this case as these two areas of the law collide. 
 
 # Vote
 ![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/plot_vote.png)
