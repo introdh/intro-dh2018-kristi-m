@@ -14,7 +14,7 @@ Network data can be used to identify the most important Supreme Court precedents
 
 # Issue
 ![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/plot_issue.png)
-The cases in the area of law of desegregation in schools are located in the top left, while the cases in the area of law of free exercise of religion are located in the bottom right. It is interesting to note that the *Bob Jones University v. United States* is coded under desegregation in schools as it serves as the linchpin between these two areas of the law, and in my opinion, could be coded in both areas.
+The cases in the area of law of desegregation in schools are located in the top left, while the cases in the area of law of free exercise of religion are located in the bottom right. It is interesting to note that the *Bob Jones University v. United States* is coded under desegregation in schools as it serves as a significant gatekeeper between these two areas of the law, and in my opinion, could be coded in both areas.
 
 # Year
 ![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/plot_year.png)
