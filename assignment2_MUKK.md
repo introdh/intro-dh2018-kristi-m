@@ -26,7 +26,7 @@ The centrality function reveals that the most important cases were *Brown v. Boa
 
 # Gatekeeper
 ![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/plot_gatekeeper.png)
-The gatekeeper function reveals seven gatekeeper cases between the two areas of the law, the most important being *Bob Jones University v. United States* (1982), which has a high degree due to the number of edges connecting the two clusters. This is consistent with expert legal opinion about the importance of this case as these two areas of the law collide. 
+The gatekeeper function reveals seven gatekeeper cases between the two areas of the law, the most important being *Bob Jones University v. United States* (1982), which has a high degree due to the number of edges connecting the two clusters. This is consistent with expert legal opinion about the importance of this case as these two areas of the law collide. In the 1970s, the IRS tried to revoke the tax-exempt status of the private Christian school, Bob Jones University, because of its racially segregated campus. In 1982, the Supreme Court ruled that the first amendment did not give Bob Jones the right to claim tax-exemption while practicing racial discrimination. The IRS then revoked its tax-emexempt status due to the school's prohibition of interracial dating and interracial marriage based on religious beliefs, and Bob Jones University sued, but the Supreme Court maintained that you cannot simultaneously enjoy tax-exemption and discriminate. The Bob Jones case became a rallying cry for the mobilization of the Christian right. 
 
 # Vote
 ![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/plot_vote.png)
