@@ -2,7 +2,7 @@
 
 Data: https://docs.google.com/spreadsheets/d/1c6a5qyoJ7Y9M0-QxSHlYrDHLF-UrfDU2nPqxOinCojk/edit?usp=sharing
 Map: http://arcg.is/1GrjfK
-Storymap: 
+Storymap: http://arcg.is/1j4XH0
 
 This week was an unusual week as a lot of my time both in class and in my various activities were focused on place-making, community-building, mindfulness, and thinking critically about space and place on campus. This was enhanced by the fact that I was already thinking about assignment 3 for this class and what interesting connections I could make, so I was more aware of my relationship to space and place on campus than usual. One thing I noticed when creating my data was how often I was in my dorm room in North Court and how I only got off-campus twice the entire week to go shopping at Short Pump and to go to CVS. I think most UR students get caught up in the “Richmond Bubble” and do not get off campus often, and most students’ weekly routines do not deviate from a small amount of buildings and locations on campus. 
 
