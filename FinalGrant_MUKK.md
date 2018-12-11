@@ -3,10 +3,10 @@
 ## Table of Contents 
 ### I. List of Participants 
 ### II. Narrative 
-       #### a. Enhancing the Humanities 
-       #### b. Environmental Scan
-       #### c. History of the Project
-       #### d. Work Plan 
-       #### e. Final Product and Dissemination
+       #### A. Enhancing the Humanities 
+       #### B. Environmental Scan
+       #### C. History of the Project
+       #### D. Work Plan 
+       #### E. Final Product and Dissemination
 ### III. Biographies 
 ### IV. Appendices
