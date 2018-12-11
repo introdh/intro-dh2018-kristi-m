@@ -1,7 +1,9 @@
 # 2019 NEH ODH Advancement Grant 
 
 **Project Title**: Thick Mapping Japanese Internment 
+
 **Institution**: University of Richmond
+
 **Project Director**: Kristi Mukk
 
 
