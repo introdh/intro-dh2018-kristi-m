@@ -124,6 +124,23 @@ My preliminary research consisted of David Bodenhamer’s “Beyond GIS: Geospat
 
 My previous related work is a class project I completed for RHCS 412: Digital Memory and the Archive with Dr. Nicole Maurantonio in which we created a [tour of the history of race and racism at the University of Richmond](https://www.theclio.com/web/tour/summary?id=741). The tour consists of archival materials, oral histories, and pictures meant to encourage tour-goers to think critically about space and place on campus as well as memorialization, architecture, and landscape. 
 
+**D. Work Plan**
+
+The first step would be accumulating data from the U.S. Census, Japanese American National Museum, and the National Park Service in order to find information about camp locations, population statistics, living conditions, and archival materials. This research and data collection will be delegated to Kristi Mukk to complete in a three-month period. 
+
+The second step would be for Kristi Mukk to collaborate with Justin Madron, who will create the GIS interface necessary to create the six layers of the project and create an interactive map. Layers 1-4 will be scheduled to be complete within a four-month period. 
+
+The third step will be for Kristi Mukk to research the coordinates of places of memorialization such as monuments, museums, and plaques. The interface created for Layer 6 by Justin Madron and Kristi Mukk’s research are to be completed within a three-month period.
+
+The fourth step will be finishing the last layer, Layer 5. Justin Madron will create the interface for mapping Twitter and Instagram in real time, based on the HyperCities model. This will be completed within a two-month period. Druing this time, Kristi Mukk will also create a timeline of Japanese internment and its effects from the Pearl Harbor attack to present day. 
+
+The sixth step will be launching the project website that will feature the 6-layered interactive map with a timeline of Japanese internment. 
+
+Some risks that might delay the scheduled steps would be a lack of information available for some of the camp sites or difficulty creating a 6-layered map as this visualization of thick mapping is a new and developing method. 
+
+Project development will be overseen by Co-Director Dr. Tilton, and our Advisory Board members, Dr. Nicole Maurantonio and Dr. Ed Ayers. The project will also be evaluated by faculty and students in the University of Richmond’s American Studies department, History department, and the Rhetoric & Communications department. 
+
+
 ## III. Biographies 
 
 **Project Director**: Kristi Mukk is a senior at the University of Richmond majoring in Rhetoric & Communication Studies. She currently serves as content curator and editor for Bunk History and is a researcher for the UR Race & Racism Project. Her studies focus on public history, memory studies, archives, cultural studies, critical studies, and digital humanities. 
