@@ -22,23 +22,23 @@
 
 
 ## I. List of Participants
-**Project Director**: Kristi Mukk: Senior at the University of Richmond majoring in Rhetoric & Communications
+**Project Director**: Kristi Mukk — Senior at the University of Richmond majoring in Rhetoric & Communications
 
-**Co-Director**: Dr. Lauren Tilton: Assistant Professor of Digital Humanities at the University of Richmond and Research Fellow at UR’s Digital Scholarship Lab
+**Co-Director**: Dr. Lauren Tilton — Assistant Professor of Digital Humanities at the University of Richmond and Research Fellow at UR’s Digital Scholarship Lab
 - Yale University, Ph.D., American Studies
 - Yale University, M.Phil., American Studies
 - Yale University, M.A., American Studies with a Concentration in Public Humanities
 - University of Virginia, B.A., American Studies 
 
-**Technical Support**: Justin M. Madron: GIS Project Manager & Analyst for the Digital Scholarship Lab at the University of Richmond
+**Technical Support**: Justin M. Madron — GIS Project Manager & Analyst for the Digital Scholarship Lab at the University of Richmond
 - Virginia Commonwealth University, M.A., Environmental Studies with a Focus in Geographical Information Systems and Technologies
 - West Virginia University, B.S., Landscape Architecture
 
-**Advisory Board**: Dr. Nicole Maurantonio: Chair of the Department of Rhetoric & Communication Studies; Associate Professor of Rhetoric & Communication Studies and American Studies at the University of Richmond
+**Advisory Board**: Dr. Nicole Maurantonio — Chair of the Department of Rhetoric & Communication Studies; Associate Professor of Rhetoric & Communication Studies and American Studies at the University of Richmond
 - University of Pennsylvania, Ph.D., Communication and History
 - University of Virginia, B.A., Economics and History
 
-**Advisory Board**: Dr. Edward L. Ayers: Tucker-Boatwright Professor of the Humanities and President Emeritus at the University of Richmond and Senior Research Fellow at UR’s Digital Scholarship Lab
+**Advisory Board**: Dr. Edward L. Ayers — Tucker-Boatwright Professor of the Humanities and President Emeritus at the University of Richmond and Senior Research Fellow at UR’s Digital Scholarship Lab
 - Yale University, Ph.D., American Studies
 - University of Tennessee, B.A., American Studies
 
