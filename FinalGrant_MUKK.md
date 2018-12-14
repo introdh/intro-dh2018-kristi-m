@@ -28,6 +28,35 @@
 - **Advisory Board**: Dr. Nicole Maurantonio — Chair of the Department of Rhetoric & Communication Studies; Associate Professor of Rhetoric & Communication Studies and American Studies at the University of Richmond
 - **Advisory Board**: Dr. Edward L. Ayers — Tucker-Boatwright Professor of the Humanities and President Emeritus at the University of Richmond and Senior Research Fellow at UR’s Digital Scholarship Lab
 
+## II. Narrative
+**A. Enhancing the Humanities**
+
+Japanese internment during World War II is an event in American history that is often overlooked. This project would further contribute to the developing thick mapping method as outlined in *HyperCities: Thick Mapping in the Digital Humanities* by Todd Presner, David Shepard, and Yoh Kawano. They define a hypercity as “a real city overlaid with information networks that document the past, catalyze the present, and project future possibilities.” GIS platforms “can be used to richly contextualize digital information, preserve individual memories, and, perhaps most ambitiously, begin to undo historical erasures and silences” (Kawano, *HyperCities*, 2014). GIS technologies can illuminate these hypercities by allowing quantitative data to interact with humanistic stories. This allows for a kind of “counter-mapping” as the GIS technologies can illuminate hidden or often untold narratives that are not privileged in the dominant discourse. 
+
+This project matters because it can be used as an educatioaln resource and tool for individuals to generate their own critical readings of an event in American history that is often overlooked. I envision it being used by both American history students, scholars, a general humanities audience, or just ordinary people with an interest in American history or the spatial history around them. This project would also further contribute to the developing thick mapping method because it holds a lot of potential new ways to think about spatial history, mapping, and GIS technologies, and how spatial history has impacted the past, present, and future of the lives of people.
+
+I conceptualize the map to have six different layers addressing different kinds of humanities questions: 
+
+- Where were the camps and assembly centers located? 
+- What were living conditions like for internees? 
+- What were the demographics and geographic features of different camps, and how did their population numbers change over time? 
+- How far were internees displaced from their cities of origin? 
+- How can archival materials and the lived experience of the internees be incorporated with mapping to create a critical spatial narrative? 
+- How can spatial history (past, present, and future) be visualized? 
+- What do these sites look like today and how are they memorialized? 
+
+Layer 1 will plot the locations of all War Relocation Authority (WRA) camps, Justice Department camps, U.S. army camps, and assembly centers based on this map provided by the National Park Service. Many of these camps were placed on Native American reservations such as the Boston camp, so I would also map the boundaries of Native American reservations. I would also layer individual camp maps as available from various archives such as the Japanese American National Museum and the National Park Service in order to compare the layouts and amenities of various camps. 
+
+Layer 2 will map the displacement of individuals from their cities of origin to the internment camps. I would also like to map the cities on primarily the East Coast where Japanese families relocated in order to avoid internment on the West Coast. I will base my model off of the one below provided by the Orange County Register. I will also document the population statistics at each camp over time as well as population density based on data from the U.S. Census and the Japanese American Museum—these visualizations will be based off of the Orange County Register timeline and the American Panorama population visualization below. If I can find statistics about the percentage of American citizens and Japanese citizens at each camp, I will include that as well because that fact that 62% of internees were U.S. citizens is a crucial point. 
+
+Layer 3 will document living conditions at each camp and document things such as weather, temperature, elevation, illness, work life, acreage, terrain, elevation, and whether the camp is located in a rural or more urban setting. 
+
+Layer 4 will include archival materials, primarily from the Densho Digital Repository and the Japanese American National Museum, to document the lived experience of individuals at each camp. The archival materials will include photographs, letters, art, oral histories, newspapers, legal documents, etc. 
+
+Layer 5 will focus on mapping the present by mapping Instagram and Twitter engagement at the different camp sites to see how they are interacting with the landscape and with any museums and/or memorials available at each location. 
+
+Layer 6 will focus on mapping the present in order to imagine the future by mapping sites of memorials, monuments, and museums dedicated to Japanese internment. A lot of these places of commemoration and remembrance were opened or dedicated in recent years, and there has been failure to preserve and memorialize a lot of the camp sites. In mapping the present sites of memorialization, we can ensure that history is not hidden, erased, or forgotten, and we can imagine what the history of these spaces mean for their inhabitants and current Japanese Americans. In reading about the experiences of Twitter users visiting the Manzanar campsite, many said that you really had to use your imagination in order to picture the camp as most of the barracks were gone and only the desert and a few scraps of debris remain. In future iterations of this project, perhaps visual reconstructions could be something to be explored by reconstructing what camp sites looked like through archival maps and photographs. 
+
 ## IV. Appendices
 **Works Cited**
 1. “America’s Concentration Camps.” Japanese American National Museum, Civil Liberties Archive and Study Center. http://www.janm.org/projects/clasc/map.htm.
