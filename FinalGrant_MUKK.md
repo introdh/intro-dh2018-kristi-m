@@ -6,7 +6,7 @@
 
 **Project Director**: Kristi Mukk
 
-
+**Level II Grant**
 
 ## Table of Contents 
 ### I. List of Participants 
@@ -22,11 +22,25 @@
 
 
 ## I. List of Participants
-- **Project Director**: Kristi Mukk — Senior at the University of Richmond 
-- **Co-Director**: Dr. Lauren Tilton — Assistant Professor of Digital Humanities at the University of Richmond and Research Fellow at UR’s Digital Scholarship Lab
-- **Technical Support**: Justin M. Madron — GIS Project Manager & Analyst for the Digital Scholarship Lab at the University of Richmond
-- **Advisory Board**: Dr. Nicole Maurantonio — Chair of the Department of Rhetoric & Communication Studies; Associate Professor of Rhetoric & Communication Studies and American Studies at the University of Richmond
-- **Advisory Board**: Dr. Edward L. Ayers — Tucker-Boatwright Professor of the Humanities and President Emeritus at the University of Richmond and Senior Research Fellow at UR’s Digital Scholarship Lab
+**Project Director**: Kristi Mukk: Senior at the University of Richmond majoring in Rhetoric & Communications
+
+**Co-Director**: Dr. Lauren Tilton: Assistant Professor of Digital Humanities at the University of Richmond and Research Fellow at UR’s Digital Scholarship Lab
+- Yale University, Ph.D., American Studies
+- Yale University, M.Phil., American Studies
+- Yale University, M.A., American Studies with a Concentration in Public Humanities
+- University of Virginia, B.A., American Studies 
+
+**Technical Support**: Justin M. Madron: GIS Project Manager & Analyst for the Digital Scholarship Lab at the University of Richmond
+- Virginia Commonwealth University, M.A., Environmental Studies with a Focus in Geographical Information Systems and Technologies
+- West Virginia University, B.S., Landscape Architecture
+
+**Advisory Board**: Dr. Nicole Maurantonio: Chair of the Department of Rhetoric & Communication Studies; Associate Professor of Rhetoric & Communication Studies and American Studies at the University of Richmond
+- University of Pennsylvania, Ph.D., Communication and History
+- University of Virginia, B.A., Economics and History
+
+**Advisory Board**: Dr. Edward L. Ayers: Tucker-Boatwright Professor of the Humanities and President Emeritus at the University of Richmond and Senior Research Fellow at UR’s Digital Scholarship Lab
+- Yale University, Ph.D., American Studies
+- University of Tennessee, B.A., American Studies
 
 ## II. Narrative
 **A. Enhancing the Humanities**
@@ -109,6 +123,18 @@ For my Fall 2018 semester of my senior year, I took the class RHCS 279: Introduc
 My prelimanry research consisted of David Bodenhamer’s “Beyond GIS: Geospatial Technologies and the Future of History.” He argues that we must embrace GIS Science and view GIS as more than just a technological tool, but a science that uses theories and methods of spatial analysis and deep mapping that capture the complexities and contingencies of human experiences and emotions (Bodenhamer, History and GIS, 2013). Another reading that sparked my interest in critical mapping was Jeremy Crampton’s *A Critical Introduction to Cartography and GIS*. He argues that mapping itself is a political act and a reflection of power relations, and that mapping, cartography, and GIS are capable of engaging with critical issues. Although the cartographic discipline tried to become post-political, “mapping practices and discourses are intimately intertwined.” The mapping of the exclusion zone on the West Coast during Japanese internment and the mapping of internment camp boundaries allowed for incarceration based on racial discrimination, but there is an “economy of morality” as maps and GIS can be used for both good or bad purposes (Crampton, Mapping: A Critical Introduction to Cartography and GIS, 2010). Richard White’s “What Is Spatial History” explained how space is itself historical, and spatial relations can help explain historical changes over time (White, Stanford Spatial History Project, 2010). Thick mapping is a way of doing research that can help generate new questions and relationships that would otherwise go unnoticed.
 
 My previous related work is a class project I completed for RHCS 412: Digital Memory and the Archive with Dr. Nicole Maurantonio in which we created a [tour of the history of race and racism at the University of Richmond](https://www.theclio.com/web/tour/summary?id=741). The tour consists of archival materials, oral histories, and pictures meant to encourage tour-goers to think critically about space and place on campus as well as memorialization, architecture, and landscape. 
+
+## III. Biographies 
+
+**Project Director**: Kristi Mukk is a senior at the University of Richmond majoring in Rhetoric & Communication Studies. She currently serves as content curator and editor for Bunk History and is a researcher for the UR Race & Racism Project. Her studies focus on public history, memory studies, archives, cultural studies, critical studies, and digital humanities. 
+
+**Co-Director**: Dr. Lauren Tilton is an Assistant Professor of Digital Humanities at the University of Richmond and research fellow at UR’s Digital Scholarship Lab. She received her Ph.D. in American Studies from Yale University. Her studies focus on intersections of 20th century U.S. history, media studies, and digital public humanities. 
+
+**Technical Support**: Justin M. Madron is the GIS Project Manager & Analyst for the Digital Scholarship Lab at the University of Richmond. He has a Bachelor’s of Science degree in Landscape Architecture from West Virginia University and a Master’s degree from Virginia Commonwealth University in Environmental Studies with a focus on Geographical Information Systems and Technologies. His role will be to provide GIS technology support. 
+
+**Advisory Board**: 
+- Dr. Nicole Maurantonio is the Chair of the Department of Rhetoric & Communication Studies and Associate Professor of Rhetoric & Communication Studies and American Studies at the University of Richmond. She holds a joint Ph.D. in Communication and History from the University of Pennsylvania. Her areas of expertise are public memory, U.S. media history, and race and representation. 
+- Dr. Edward L. Ayers is a Tucker-Boatwright Professor of the Humanities and President Emeritus at the University of Richmond. He is also a Senior Research Fellow at the Digital Scholarship Lab at UR. He received his Ph.D. in American Studies from Yale University. He is a distinguished scholar of the American South and has authored numerous books. 
 
 ## IV. Appendices
 **Works Cited**
