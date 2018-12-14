@@ -75,6 +75,19 @@ Some ideas I liked from the Yale project and would like to incorporate into my p
 ![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/Yale_CampStatistics.png)
 *Source: Yale University, "Out of the Desert"*
 
+**C. History of the Project**
+
+For my Fall 2018 semester of my senior year, I took the class RHCS 279: Introduction to the Digital Humanities with Dr. Lauren Tilton, an Assistant Professor of Digital Humanities at the University of Richmond and Research Fellow at UR’s Digital Scholarship Lab. In this class, we had a section dedicated to learning about spatial history and GIS technologies. Our class also had to create a [StoryMaps project](http://arcg.is/1j4XH0) that investigated each individual’s notion of space and place on the University of Richmond campus. This project inspired my concept of different layers in my map as well as the importance of narratives and critical perspectives of space and place. I presented my NEH grant proposal to the class, and they voted it as one of the top two projects that they would fund in the class. View the [slideshow](https://docs.google.com/presentation/d/1X6LO8pAZxTKa3O-H3gVCq27wlxqcrF8cvoiB8AjgFK0/edit#slide=id.g35f391192_065) here. 
+
+One of the class readings was David Bodenhamer’s “Beyond GIS: Geospatial Technologies and the Future of History.” He argues that as GIS begins to fuse with history and the humanities, we must embrace GIS Science and view GIS as more than just a technological tool, but a science that uses theories and methods of spatial analysis and deep mapping that capture the complexities and contingencies of human experiences and emotions (Bodenhamer, History and GIS, 2013). 
+
+A reading that sparked my interest in critical mapping was Jeremy Crampton’s A Critical Introduction to Cartography and GIS. Our class also engaged with Richard White’s “What is Spatial History?”, which argues that mapping itself is a political act and a reflection of power relations, and that mapping, cartography, and GIS are capable of engaging with critical issues. Although the cartographic discipline tried to become post-political, “mapping practices and discourses are intimately intertwined.” The mapping of the exclusion zone on the West Coast during Japanese internment and the mapping of internment camp boundaries allowed for incarceration based on racial discrimination, but there is an “economy of morality” as maps and GIS can be used for both good or bad purposes (Crampton, Mapping: A Critical Introduction to Cartography and GIS, 2010).
+
+Richard White’s “What Is Spatial History” explained how space is itself historical, and spatial relations can help explain historical changes over time (White, Stanford Spatial History Project, 2010).
+Thick mapping is a way of doing research that can help generate new questions and relationships that would otherwise go unnoticed, and thick mapping can help visualize spatial data and show historical changes and spatial patterns over time.
+
+My previous related work is a class project I completed for RHCS 412: Digital Memory and the Archive with Dr. Nicole Maurantonio in which we created a [tour of the history of race and racism at the University of Richmond](https://www.theclio.com/web/tour/summary?id=741). The tour consists of archival materials, oral histories, and pictures meant to encourage tour-goers to think critically about space and place on campus as well as memorialization, architecture, and landscape. 
+
 ## IV. Appendices
 **Works Cited**
 1. “America’s Concentration Camps.” Japanese American National Museum, Civil Liberties Archive and Study Center. http://www.janm.org/projects/clasc/map.htm.
