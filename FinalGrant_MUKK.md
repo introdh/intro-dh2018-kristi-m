@@ -57,6 +57,24 @@ Layer 5 will focus on mapping the present by mapping Instagram and Twitter engag
 
 Layer 6 will focus on mapping the present in order to imagine the future by mapping sites of memorials, monuments, and museums dedicated to Japanese internment. A lot of these places of commemoration and remembrance were opened or dedicated in recent years, and there has been failure to preserve and memorialize a lot of the camp sites. In mapping the present sites of memorialization, we can ensure that history is not hidden, erased, or forgotten, and we can imagine what the history of these spaces mean for their inhabitants and current Japanese Americans. In reading about the experiences of Twitter users visiting the Manzanar campsite, many said that you really had to use your imagination in order to picture the camp as most of the barracks were gone and only the desert and a few scraps of debris remain. In future iterations of this project, perhaps visual reconstructions could be something to be explored by reconstructing what camp sites looked like through archival maps and photographs. 
 
+**B. Environmental Scan**
+
+Yale University’s “Out of the Desert: Resilience and Memory in Japanese American Internment” is a project that is similar in nature to my project, but it does not use the method of thick mapping, focuses solely on the past, and is missing some crucial pieces of information. One of the preliminary issues with the Yale project would occur in Layer 1 as the project only maps the WRA relocation centers and assembly centers, but does not map any of the Justice Department or U.S. Army camps. 
+
+![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/YaleProject.png)
+*Source: Yale University, "Out of the Desert"*
+
+The map from the National Park Service (pictured below) that I would build my project off of is a lot more comprehensive. The Yale map is a bit misleading about the scope and scale of Japanese internment as it makes it seem that there were fewer camps than actually existed. 
+
+![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/NPS_Map.jpg)
+*Source: National Park Service*
+
+Some ideas I liked from the Yale project and would like to incorporate into my project with some tweaking are the adding of archival materials to each campsite as well as a general background context about how Japanese internment started and when it ended. I would improve upon Yale’s model of adding archival materials by making the materials easier to search for and making the interface easier to navigate; this could be done by adding searchable keywords and tags to each archival material. I would also improve upon Yale’s model of providing background context by creating a timeline with all the major events from the Pearl Harbor attack to reparations. I also liked how Yale documented the living conditions of each camp, but I would improve upon this model by adding more specific categories such as weather, temperature, elevation, acreage, etc. that could be integrated into a tool that could compare the living conditions of different camp sites. Although Yale’s map focuses entirely on the past, my project would also look to the present and the future thanks to the possibilities thick mapping. People often question why the past matters, and my project will provide students, scholars, or a general humanities audience with the tools necessary to think critically about spatial history and the repercussions it has today and the possibilities of a more socially just future. 
+
+![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/Yale_Archives.png)
+![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/Yale_CampStatistics.png)
+*Source: Yale University, "Out of the Desert"*
+
 ## IV. Appendices
 **Works Cited**
 1. “America’s Concentration Camps.” Japanese American National Museum, Civil Liberties Archive and Study Center. http://www.janm.org/projects/clasc/map.htm.
