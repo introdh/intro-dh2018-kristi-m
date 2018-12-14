@@ -42,6 +42,12 @@
 - Yale University, Ph.D., American Studies
 - University of Tennessee, B.A., American Studies
 
+**Advisory Board**: Dr. Tze M. Loo — Associate Professor of History and International Studies at the University of Richmond with a focus in Asia
+- Ph.D., Cornell University
+- M.A., Cornell University
+- M.A., National University of Singapore
+- B.A., University of Sydney
+
 ## II. Narrative
 **A. Enhancing the Humanities**
 
@@ -126,19 +132,19 @@ My previous related work is a class project I completed for RHCS 412: Digital Me
 
 **D. Work Plan**
 
-The first step would be accumulating data from the U.S. Census, Japanese American National Museum, and the National Park Service in order to find information about camp locations, population statistics, living conditions, and archival materials. This research and data collection will be delegated to Kristi Mukk to complete in a three-month period. 
+The first step would be accumulating data from the U.S. Census, Japanese American National Museum, Densho Digital Repository, and the National Park Service in order to find information about camp locations, population statistics, living conditions, and archival materials. This research and data collection will be delegated to Kristi Mukk to complete in a three-month period. 
 
-The second step would be for Kristi Mukk to collaborate with Justin Madron, who will create the GIS interface necessary to create the six layers of the project and create an interactive map. Layers 1-4 will be scheduled to be complete within a four-month period. 
+The second step would be for Kristi Mukk to collaborate with Justin Madron, who will create the GIS interface necessary to create the six layers of the project and create an interactive map. Layers 1-4 (mapping camp locations, layering individual camp maps, mapping discplacement from cities of origin, population statistics, population density, living conditions, and creating an archival database) will be scheduled to be complete within a five-month period. 
 
 The third step will be for Kristi Mukk to research the coordinates of places of memorialization such as monuments, museums, and plaques. The interface created for Layer 6 by Justin Madron and Kristi Mukk’s research are to be completed within a three-month period.
 
-The fourth step will be finishing the last layer, Layer 5. Justin Madron will create the interface for mapping Twitter and Instagram in real time, based on the HyperCities model. This will be completed within a two-month period. Druing this time, Kristi Mukk will also create a timeline of Japanese internment and its effects from the Pearl Harbor attack to present day. 
+The fourth step will be finishing the last layer, Layer 5. Justin Madron will create the interface for mapping Twitter and Instagram in real time, based on the HyperCities model. This will be completed within a two-month period. During this time, Kristi Mukk will also create a timeline of Japanese internment and its effects from the Pearl Harbor attack to present day. 
 
 The sixth step will be launching the project website that will feature the 6-layered interactive map with a timeline of Japanese internment. 
 
 Some risks that might delay the scheduled steps would be a lack of information available for some of the camp sites or difficulty creating a 6-layered map as this visualization of thick mapping is a new and developing method. 
 
-Project development will be overseen by Co-Director Dr. Tilton, and our Advisory Board members, Dr. Nicole Maurantonio and Dr. Ed Ayers. The project will also be evaluated by faculty and students in the University of Richmond’s American Studies department, History department, and the Rhetoric & Communications department. 
+Project development will be overseen by Co-Director Dr. Tilton and our Advisory Board members. The project will also be evaluated by faculty and students in the University of Richmond’s American Studies department, History department, and the Rhetoric & Communications department. 
 
 
 ## III. Biographies 
@@ -152,6 +158,7 @@ Project development will be overseen by Co-Director Dr. Tilton, and our Advisory
 **Advisory Board**: 
 - Dr. Nicole Maurantonio is the Chair of the Department of Rhetoric & Communication Studies and Associate Professor of Rhetoric & Communication Studies and American Studies at the University of Richmond. She holds a joint Ph.D. in Communication and History from the University of Pennsylvania. Her areas of expertise are public memory, U.S. media history, and race and representation. 
 - Dr. Edward L. Ayers is a Tucker-Boatwright Professor of the Humanities and President Emeritus at the University of Richmond. He is also a Senior Research Fellow at the Digital Scholarship Lab at UR. He received his Ph.D. in American Studies from Yale University. He is a distinguished scholar of the American South and has authored numerous books. 
+- Dr. Tze M. Loo is an Associate Professor of History and International Studies with a concentration in Asia at the University of Richmond. Her areas of focus are Japanese colonialism, Okinawan history, and heritage studies. 
 
 ## IV. Appendices
 **Works Cited**
