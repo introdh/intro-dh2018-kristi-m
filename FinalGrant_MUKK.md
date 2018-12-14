@@ -100,6 +100,8 @@ Some ideas I liked from the Yale project and would like to incorporate into my p
 ![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/Yale_CampStatistics.png)
 *Source: Yale University, "Out of the Desert"*
 
+The HyperCities projects that inspired my project design are: [*LA's Historic Filipinotown*](http://www.hypercities.com/?page_id=2#/hi-fi), [*Mapping Twitter in Realtime*](http://www.hypercities.com/?page_id=2#/mapping-twitter-in-realtime), and [*Holocaust Survivor Stories*](http://www.hypercities.com/?page_id=2#/holocaust-survivor-stories)
+
 **C. History of the Project**
 
 For my Fall 2018 semester of my senior year, I took the class RHCS 279: Introduction to the Digital Humanities with Dr. Lauren Tilton, an Assistant Professor of Digital Humanities at the University of Richmond and Research Fellow at UR’s Digital Scholarship Lab. In this class, we had a section dedicated to learning about spatial history and GIS technologies. Our class also had to create a [StoryMaps project](http://arcg.is/1j4XH0) that investigated each individual’s notion of space and place on the University of Richmond campus. This project inspired my concept of different layers in my map as well as the importance of narratives and critical perspectives of space and place. I presented my NEH grant proposal to the class, and they voted it as one of the top two projects that they would fund in the class. View the [slideshow](https://docs.google.com/presentation/d/1X6LO8pAZxTKa3O-H3gVCq27wlxqcrF8cvoiB8AjgFK0/edit#slide=id.g35f391192_065) here. 
