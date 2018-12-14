@@ -45,9 +45,27 @@ I conceptualize the map to have six different layers addressing different kinds 
 - How can spatial history (past, present, and future) be visualized? 
 - What do these sites look like today and how are they memorialized? 
 
-Layer 1 will plot the locations of all War Relocation Authority (WRA) camps, Justice Department camps, U.S. army camps, and assembly centers based on this map provided by the National Park Service. Many of these camps were placed on Native American reservations such as the Boston camp, so I would also map the boundaries of Native American reservations. I would also layer individual camp maps as available from various archives such as the Japanese American National Museum and the National Park Service in order to compare the layouts and amenities of various camps. 
+Layer 1 will plot the locations of all War Relocation Authority (WRA) camps, Justice Department camps, U.S. army camps, and assembly centers based on this map provided by the National Park Service: 
 
-Layer 2 will map the displacement of individuals from their cities of origin to the internment camps. I would also like to map the cities on primarily the East Coast where Japanese families relocated in order to avoid internment on the West Coast. I will base my model off of the one below provided by the Orange County Register. I will also document the population statistics at each camp over time as well as population density based on data from the U.S. Census and the Japanese American Museum—these visualizations will be based off of the Orange County Register timeline and the American Panorama population visualization below. If I can find statistics about the percentage of American citizens and Japanese citizens at each camp, I will include that as well because that fact that 62% of internees were U.S. citizens is a crucial point. 
+![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/NPS_Map.jpg)
+*Source: National Park Service*
+
+Many of these camps were placed on Native American reservations such as the Poston camp, so I would also map the boundaries of Native American reservations. I would also layer individual camp maps as available from various archives such as the Japanese American National Museum and the National Park Service in order to compare the layouts and amenities of various camps. 
+
+![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/NPS_CampMap.png)
+*Source: National Park Service*
+
+Layer 2 will map the displacement of individuals from their cities of origin to the internment camps. I would also like to map the cities on primarily the East Coast where Japanese families relocated in order to avoid internment on the West Coast. I will base my model off of the one below provided by the Orange County Register:
+
+![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/PopulationDisplacement.png)
+*Source: Orange County Register*
+
+I will also document the population statistics at each camp over time as well as population density based on data from the U.S. Census and the Japanese American Museum—these visualizations will be based off of the Orange County Register timeline and the American Panorama population visualization included below. If I can find statistics about the percentage of American citizens and Japanese citizens at each camp, I will include that as well because the fact that 62% of internees were U.S. citizens is a crucial point. 
+
+![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/CampTimeline.png)
+*Source: Orange County Register*
+![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/population_density.png)
+*Source: American Panorama*
 
 Layer 3 will document living conditions at each camp and document things such as weather, temperature, elevation, illness, work life, acreage, terrain, elevation, and whether the camp is located in a rural or more urban setting. 
 
@@ -55,7 +73,14 @@ Layer 4 will include archival materials, primarily from the Densho Digital Repos
 
 Layer 5 will focus on mapping the present by mapping Instagram and Twitter engagement at the different camp sites to see how they are interacting with the landscape and with any museums and/or memorials available at each location. 
 
-Layer 6 will focus on mapping the present in order to imagine the future by mapping sites of memorials, monuments, and museums dedicated to Japanese internment. A lot of these places of commemoration and remembrance were opened or dedicated in recent years, and there has been failure to preserve and memorialize a lot of the camp sites. In mapping the present sites of memorialization, we can ensure that history is not hidden, erased, or forgotten, and we can imagine what the history of these spaces mean for their inhabitants and current Japanese Americans. In reading about the experiences of Twitter users visiting the Manzanar campsite, many said that you really had to use your imagination in order to picture the camp as most of the barracks were gone and only the desert and a few scraps of debris remain. In future iterations of this project, perhaps visual reconstructions could be something to be explored by reconstructing what camp sites looked like through archival maps and photographs. 
+![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/MappingInstagram.jpg)
+![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/MappingTwitter.png)
+
+Layer 6 will focus on mapping the present in order to imagine the future by mapping sites of memorials, monuments, and museums dedicated to Japanese internment. 
+
+![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/Memorialization.png)
+
+A lot of these places of commemoration and remembrance were opened or dedicated in recent years, and there has been failure to preserve and memorialize a lot of the camp sites. In mapping the present sites of memorialization, we can ensure that history is not hidden, erased, or forgotten, and we can imagine what the history of these spaces mean for their inhabitants and current Japanese Americans. In reading about the experiences of Twitter users visiting the Manzanar campsite, many said that you really had to use your imagination in order to picture the camp as most of the barracks were gone and only the desert and a few scraps of debris remain. In future iterations of this project, perhaps visual reconstructions could be something to be explored by reconstructing what camp sites looked like through archival maps and photographs. 
 
 **B. Environmental Scan**
 
