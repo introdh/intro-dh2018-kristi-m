@@ -146,14 +146,17 @@ Some risks that might delay the scheduled steps would be a lack of information a
 
 Project development will be overseen by Co-Director Dr. Tilton and our Advisory Board members. The project will also be evaluated by faculty and students in the University of Richmond’s American Studies department, History department, and the Rhetoric & Communications department. 
 
+**E. Final Product and Dissemination**
+
+
 
 ## III. Biographies 
 
-**Project Director**: Kristi Mukk is a senior at the University of Richmond majoring in Rhetoric & Communication Studies. She currently serves as content curator and editor for Bunk History and is a researcher for the UR Race & Racism Project. Her studies focus on public history, memory studies, archives, cultural studies, critical studies, and digital humanities. 
+**Project Director**: Kristi Mukk is a senior at the University of Richmond majoring in Rhetoric & Communication Studies. She currently serves as content curator and editor for Bunk History and is a researcher for the UR Race & Racism Project. Her studies focus on public history, memory studies, archives, cultural studies, and critical studies. 
 
 **Co-Director**: Dr. Lauren Tilton is an Assistant Professor of Digital Humanities at the University of Richmond and research fellow at UR’s Digital Scholarship Lab. She received her Ph.D. in American Studies from Yale University. Her studies focus on intersections of 20th century U.S. history, media studies, and digital public humanities. 
 
-**Technical Support**: Justin M. Madron is the GIS Project Manager & Analyst for the Digital Scholarship Lab at the University of Richmond. He has a Bachelor’s of Science degree in Landscape Architecture from West Virginia University and a Master’s degree from Virginia Commonwealth University in Environmental Studies with a focus on Geographical Information Systems and Technologies. His role will be to provide GIS technology support. 
+**Technical Support**: Justin M. Madron is the GIS Project Manager & Analyst for the Digital Scholarship Lab at the University of Richmond. He has a Bachelor’s of Science degree in Landscape Architecture from West Virginia University and a Master’s degree from Virginia Commonwealth University in Environmental Studies with a focus on Geographical Information Systems and Technologies. 
 
 **Advisory Board**: 
 - Dr. Nicole Maurantonio is the Chair of the Department of Rhetoric & Communication Studies and Associate Professor of Rhetoric & Communication Studies and American Studies at the University of Richmond. She holds a joint Ph.D. in Communication and History from the University of Pennsylvania. Her areas of expertise are public memory, U.S. media history, and race and representation. 
