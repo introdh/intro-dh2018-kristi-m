@@ -87,7 +87,7 @@ I will also document the population statistics at each camp over time as well as
 ![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/population_density.png)
 *Source: American Panorama*
 
-**Layer 3** will document living conditions at each camp and document things such as weather, temperature, elevation, illness, work life, acreage, terrain, elevation, and whether the camp is located in a rural or more urban setting. 
+**Layer 3** will document living conditions at each camp and factors such as weather, temperature, elevation, illness, work life, acreage, terrain, elevation, and whether the camp is located in a rural or more urban setting. 
 
 **Layer 4** will include archival materials, primarily from the Densho Digital Repository and the Japanese American National Museum, to document the lived experience of individuals at each camp. The archival materials will include photographs, letters, art, oral histories, newspapers, legal documents, etc. 
 
