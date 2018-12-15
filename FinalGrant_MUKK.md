@@ -134,17 +134,15 @@ My previous related work is a class project I completed for RHCS 412: Digital Me
 
 The first step would be accumulating data from the U.S. Census, Japanese American National Museum, Densho Digital Repository, and the National Park Service in order to find information about camp locations, population statistics, living conditions, and archival materials. This research and data collection will be delegated to Kristi Mukk to complete in a three-month period. 
 
-The second step would be for Kristi Mukk to collaborate with Justin Madron, who will create the GIS interface necessary to create the six layers of the project and create an interactive map. Layers 1-4 (mapping camp locations, layering individual camp maps, mapping discplacement from cities of origin, population statistics, population density, living conditions, and creating an archival database) will be scheduled to be complete within a five-month period. 
+The second step would be for Kristi Mukk to collaborate with Justin Madron, who will create the GIS interface necessary to create the six layers of the project and create an interactive map. Layers 1-4 (mapping camp locations, layering individual camp maps, mapping discplacement from cities of origin, population statistics, population density, living conditions, and creating an archival database) will be scheduled to be complete within a five-month period. After Layers 1-4 are completed, they will be reviewed by the advisory board for feedback. 
 
-The third step will be for Kristi Mukk to research the coordinates of places of memorialization such as monuments, museums, and plaques. The interface created for Layer 6 by Justin Madron and Kristi Mukk’s research are to be completed within a three-month period.
+The third step will be for Kristi Mukk to research the coordinates of places of memorialization such as monuments, museums, and plaques. The interface created for Layer 6 by Justin Madron and Kristi Mukk’s research are to be completed within a three-month period. During this time, edits will also be made to Layers 1-4 based on advisory board feedback. 
 
 The fourth step will be finishing the last layer, Layer 5. Justin Madron will create the interface for mapping Twitter and Instagram in real time, based on the HyperCities model. This will be completed within a two-month period. During this time, Kristi Mukk will also create a timeline of Japanese internment and its effects from the Pearl Harbor attack to present day. 
 
-The sixth step will be launching the project website that will feature the 6-layered interactive map with a timeline of Japanese internment. 
+The sixth step will be an advisory board review of the rough draft of the map and the creation of a project website that will feature the 6-layered interactive map with a timeline of Japanese internment. 
 
-Some risks that might delay the scheduled steps would be a lack of information available for some of the camp sites or difficulty creating a 6-layered map as this visualization of thick mapping is a new and developing method. 
-
-Project development will be overseen by Co-Director Dr. Tilton and our Advisory Board members. The project will also be evaluated by faculty and students in the University of Richmond’s American Studies department, History department, and the Rhetoric & Communications department. 
+Some risks that might delay the scheduled steps would be a lack of information available for some of the camp sites or difficulty creating a 6-layered map as this visualization of thick mapping is a new and developing method. Project development will be overseen by Co-Director Dr. Tilton and our Advisory Board members. The project will also be evaluated by faculty and students in the University of Richmond’s American Studies department, History department, and the Rhetoric & Communications department. 
 
 **E. Final Product and Dissemination**
 
