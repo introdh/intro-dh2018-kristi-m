@@ -140,7 +140,7 @@ The third step will be for Kristi Mukk to research the coordinates of places of 
 
 The fourth step will be finishing the last layer, Layer 5. Justin Madron will create the interface for mapping Twitter and Instagram in real time, based on the HyperCities model. This will be completed within a two-month period. During this time, Kristi Mukk will also create a timeline of Japanese internment and its effects from the Pearl Harbor attack to present day. 
 
-The sixth step will be an advisory board review of the rough draft of the map and the creation of a project website that will feature the 6-layered interactive map with a timeline of Japanese internment. 
+The sixth step will be an advisory board review of the rough draft of the map and the creation of a project website that will feature the 6-layered interactive map with a timeline of Japanese internment. The project website will also feature a public forum where visitors can submit their stories and feedback. 
 
 Some risks that might delay the scheduled steps would be a lack of information available for some of the camp sites or difficulty creating a 6-layered map as this visualization of thick mapping is a new and developing method. Project development will be overseen by Co-Director Dr. Tilton and our Advisory Board members. The project will also be evaluated by faculty and students in the University of Richmond’s American Studies department, History department, and the Rhetoric & Communications department. 
 
