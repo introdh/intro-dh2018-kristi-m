@@ -120,7 +120,7 @@ Some ideas I liked from the Yale project and would like to incorporate into my p
 ![](https://github.com/introdh/intro-dh2018-kristi-m/blob/master/images/Yale_CampStatistics.png)
 *Source: Yale University, "Out of the Desert"*
 
-The [*HyperCities*](http://www.hypercities.com/) projects that inspired my project design are: [*LA's Historic Filipinotown*](http://www.hypercities.com/?page_id=2#/hi-fi), [*Mapping Twitter in Realtime*](http://www.hypercities.com/?page_id=2#/mapping-twitter-in-realtime), and [*Holocaust Survivor Stories*](http://www.hypercities.com/?page_id=2#/holocaust-survivor-stories). *LA's Historic Filipinotown* and *Holocaust Survivor Stories* model ways to combine quantitative data with personal narratives. *Mappin Twitter in Realtime* inspired my idea for Layer 5 to focus on social media engagement at different camp sites, museums, and memorials. 
+The [*HyperCities*](http://www.hypercities.com/) projects that inspired my project design are: [*LA's Historic Filipinotown*](http://www.hypercities.com/?page_id=2#/hi-fi), [*Mapping Twitter in Realtime*](http://www.hypercities.com/?page_id=2#/mapping-twitter-in-realtime), and [*Holocaust Survivor Stories*](http://www.hypercities.com/?page_id=2#/holocaust-survivor-stories). *LA's Historic Filipinotown* and *Holocaust Survivor Stories* model ways to combine quantitative data with personal narratives. *Mapping Twitter in Realtime* inspired my idea for Layer 5 to focus on social media engagement at different camp sites, museums, and memorials. 
 
 **C. History of the Project**
 
